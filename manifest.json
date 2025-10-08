@@ -1,21 +1,21 @@
 {
   "name": "Mi App Ferretería",
   "short_name": "Ferretería",
-  "start_url": "/",
+  "start_url": "/ferre/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563EB",
   "description": "Aplicación PWA para gestionar productos de ferretería",
   "icons": [
     {
-      "src": "vite.svg",
+      "src": "ferre192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png"
     },
     {
-      "src": "vite.svg",
+      "src": "ferre512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml"
+      "type": "image/png"
     }
   ]
 }
